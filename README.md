@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/4b2935d8-7030-4564-93a7-d084d2a7c798" />
 </p>
 <p>
-Firstly, a Virtual Machine in Microsoft Azure must be created. This machine will house all of our installation files and eventually os-Ticket itself.</p>
+Firstly, a Virtual Machine in Microsoft Azure must be created. This machine will house all of our pre-aggregated installation files and eventually os-Ticket.</p>
 <br />
 
 <p>
